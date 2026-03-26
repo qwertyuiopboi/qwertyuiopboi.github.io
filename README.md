@@ -1,2 +1,2 @@
 # qwertyuiopboi.github.io
-Main page
+Main page, redirects to my linktree
